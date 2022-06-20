@@ -49,3 +49,5 @@
 <img href="https://raw.githubusercontent.com/Grateki/Grateki/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
