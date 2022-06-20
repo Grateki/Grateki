@@ -44,6 +44,6 @@
 <br clear="both">
 <div>
 
-<img href="https://raw.githubusercontent.com/Grateki/Grateki/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Grateki/Grateki/output/snake.svg" alt="Snake animation" />
 
 </div>
