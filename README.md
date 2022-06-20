@@ -41,11 +41,9 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
 <br clear="both">
+<div>
 
 <img href="https://raw.githubusercontent.com/Grateki/Grateki/output/snake.svg" alt="Snake animation" />
-###
 
+</div>
